@@ -34,7 +34,7 @@
     "jsonfile": "^5.0.0",
     "nodemon": "^1.19.2",
     "ts-node": "^8.4.1",
-    "tsconfig-paths": "^3.9.0",
+    "tsconfig-paths": "^3.10.1",
     "tslint": "^5.20.0",
     "typescript": "^3.6.3"
   }
